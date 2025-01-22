@@ -1,5 +1,7 @@
-console.log("hola Esteban")
+let numA = 30
+let numB = 20
 
-console.log("Como estas?")
-
-console.log("Adios")
+let res = numA + numB
+res++
+res++ 
+console.log(res)
